@@ -84,7 +84,6 @@ Customer-Demographics-Dashboard-Excel/
 🎓 Diploma in Computer Science & Engineering — Scholar Polytechnic Institute  
 🧰 Skills: SQL | Excel | Power BI | Power Query | Data Visualization  
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ariful-islam)  
-💻 [Portfolio Projects](https://github.com/arifulislam)
-## 🏷️ Recommended Hashtags (for LinkedIn)
-#ExcelDashboard #PowerQuery #DataAnalysis #CustomerInsights #ArifulIslamProjects
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/ariful-islam](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B0k5LQOVBQsieTfWa3Ecryw%3D%3D))  
+💻 [Portfolio Projects]([https://github.com/arifulislam](https://github.com/arifkhan868))
+
